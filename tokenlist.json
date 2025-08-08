@@ -1,0 +1,19 @@
+{
+  "name": "GURI Token List",
+  "timestamp": "2025-08-08T12:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x0be4822d26529b5a7080d66ac8D2F922B40647F6",
+      "name": "GURI Token",
+      "symbol": "GURI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/albamneoguri/GURI_/main/GURI%20Token.png"
+    }
+  ]
+}
